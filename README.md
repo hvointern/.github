@@ -1,1 +1,3 @@
-# .github
+# HvO Intern
+
+https://hvointern.de/
